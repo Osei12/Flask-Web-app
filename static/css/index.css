@@ -12,6 +12,13 @@ body{
   
  
 }
+.list-container{
+    background-color: black;
+    height: 100vh;
+}
+a{
+    text-decoration: none;
+}
 
 .box{
     overflow-y: auto;
